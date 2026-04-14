@@ -1,2 +1,1 @@
-# cyb-3ds
-cyb-3ds
+# beauty-admins
